@@ -15,7 +15,7 @@ The cost and versatility of this board make it pretty much a first pick for any 
 
 ### Wireless-networking
 
-If you would like to make a web-based project, then at the moment the best options (IMHO) would be either the Raspberry Pi, the BeagleBone Black, or the UDOO.
+If you would like to make a web-based project, then at the moment the best options (IMHO) would be either the Raspberry Pi or the BeagleBone Black.
 
 #### Raspberry Pi
 
@@ -28,12 +28,4 @@ This is often regarded as a more advanced but more powerful platform.  It is lik
 
 It also does analog inputs, and can control servo motors, so if only someone could link me to a good blog or youtube video, then I bet I'll be using mostly this for my projects.
 
-
-#### UDOO
-
-A new challenger which boasts 4x the power of a raspberry pi with a built-in Arduino basically (has a footprint compatible with shields -- or at least it did last I checked the kickstarter). 
-
-This has everything you can pretty much want out of a board - except it is pricier than the alternates.
-
-I imagine using the UDOO for a larger scale robot, something epic, truly.
 
