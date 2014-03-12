@@ -5,6 +5,9 @@ Hardware
 ### Does it interact with the Physical World?
 If your device or quest interacts with the real world (e.g. a robot or a sensor) then odds are you will need some special device.
 
+
+#### Arduino
+
 Fortunately, there are really inexpensive ones out there -- the most famous one being the [Arduino](http://arduino.cc/en/Main/Software).
 
 You can download Arduino Software for free here: [link](http://arduino.cc/en/Main/Software)
